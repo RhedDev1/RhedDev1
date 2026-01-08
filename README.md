@@ -14,8 +14,8 @@ I love connecting with others, sharing knowledge, and collaborating whenever I c
 ---
 
 
-# <h3 align="left">🛠 Language and tools</h3>
-## 🛠️ Tech Stack & Tools
+
+## 🛠️ My Tech Stack & Tools
 
 ### Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
