@@ -30,6 +30,8 @@ I love connecting with others, sharing knowledge, and collaborating whenever I c
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![CodeIgniter 3](https://img.shields.io/badge/codeigniter%203-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+![CodeIgniter 4](https://img.shields.io/badge/codeigniter%204-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
