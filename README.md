@@ -32,6 +32,7 @@ I love connecting with others, sharing knowledge, and collaborating whenever I c
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![CodeIgniter 3](https://img.shields.io/badge/codeigniter%203-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![CodeIgniter 4](https://img.shields.io/badge/codeigniter%204-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
