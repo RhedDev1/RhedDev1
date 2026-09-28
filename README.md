@@ -78,5 +78,90 @@ I love connecting with others, sharing knowledge, and collaborating whenever I c
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C276%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2013%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 16 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                12 commits          ██████████████████░░░░░░░   70.59 % 
+🌃 Evening                5 commits           ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   10 commits          ███████████████░░░░░░░░░░   58.82 % 
+Tuesday                  2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Thursday                 4 commits           ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+PHP                      15 hrs 6 mins       ███████████████████████░░   92.85 % 
+Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+SQL                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 16 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+gis                      7 hrs 38 mins       ████████████░░░░░░░░░░░░░   47.02 % 
+portal                   6 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   38.33 % 
+infosys                  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+gis_local                1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+NROSAS                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+
+💻 Operating System: 
+Windows                  16 hrs 16 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+```text
+
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/RhedDev1/RhedDev1/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/09/2026 05:17:12 UTC
 <!--END_SECTION:waka-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
