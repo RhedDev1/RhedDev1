@@ -77,5 +77,5 @@ I love connecting with others, sharing knowledge, and collaborating whenever I c
 
 ## ⏱️ WakaTime
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhedaligan&theme=dark&layout=compact)](https://wakatime.com/@rhedaligan)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RhedDev1&theme=dark&layout=compact)](https://wakatime.com/@RhedDev1)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
