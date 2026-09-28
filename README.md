@@ -75,7 +75,8 @@ I love connecting with others, sharing knowledge, and collaborating whenever I c
 [![](https://visitcount.itsvg.in/api?id=RhedDev1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## ⏱️ WakaTime
+## ⏱️ WakaTime Coding Activity
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RhedDev1&theme=dark&layout=compact)](https://wakatime.com/@RhedDev1)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
