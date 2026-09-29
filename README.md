@@ -78,7 +78,7 @@ I love connecting with others, sharing knowledge, and collaborating whenever I c
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C276%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C279%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2013%20mins-blue?style=flat)
 
@@ -125,24 +125,24 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-PHP                      15 hrs 6 mins       ███████████████████████░░   92.85 % 
-Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-SQL                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+PHP                      17 hrs 2 mins       ███████████████████████░░   90.58 % 
+Bash                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Apache Config            17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gis                      7 hrs 38 mins       ████████████░░░░░░░░░░░░░   47.02 % 
-portal                   6 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   38.33 % 
-infosys                  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-gis_local                1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-NROSAS                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+gis                      9 hrs 11 mins       ████████████░░░░░░░░░░░░░   48.87 % 
+portal                   6 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.19 % 
+infosys                  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+gis_local                1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+NROSAS                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 💻 Operating System: 
-Windows                  16 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -162,6 +162,6 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/RhedDev1/RhedDev1/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 05:17:12 UTC
+ Last Updated on 29/09/2026 05:18:30 UTC
 <!--END_SECTION:waka-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
