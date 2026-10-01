@@ -125,24 +125,24 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-PHP                      10 hrs 29 mins      ██████████████████████░░░   86.00 % 
-Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Apache Config            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-SQL                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+PHP                      5 hrs 59 mins       ████████████████████░░░░░   79.61 % 
+Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Apache Config            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+SQL                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gis                      6 hrs 30 mins       █████████████░░░░░░░░░░░░   53.34 % 
-portal                   3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-gis_local                1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-NROSAS                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-infosys                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+gis                      4 hrs 34 mins       ███████████████░░░░░░░░░░   60.71 % 
+gis_local                1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+NROSAS                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+portal                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+infosys                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 💻 Operating System: 
-Windows                  12 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -162,6 +162,6 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/RhedDev1/RhedDev1/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 05:06:18 UTC
+ Last Updated on 01/10/2026 05:20:54 UTC
 <!--END_SECTION:waka-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
